@@ -1,9 +1,19 @@
 {
 	"repos" : [
 		{
-			"name":"docs-m2m",
-			"url":"http://stash.verizon.com/scm/npdirvui/docs-m2m.git",
-			"branch":"master"
+			"name":"production",
+			"url":"https://github.com/anishreddy202/md-doc.git",
+			"branch":"v1"
+		},
+		{
+			"name":"production",
+			"url":"https://github.com/anishreddy202/md-doc.git",
+			"branch":"v2"
+		},
+		{
+			"name":"staging",
+			"url":"https://github.com/anishreddy202/md-doc.git",
+			"branch":"v2"
 		}
 	]
 }
