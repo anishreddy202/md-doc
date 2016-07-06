@@ -1,0 +1,9 @@
+{
+	"repos" : [
+		{
+			"name":"docs-m2m",
+			"url":"http://stash.verizon.com/scm/npdirvui/docs-m2m.git",
+			"branch":"master"
+		}
+	]
+}
